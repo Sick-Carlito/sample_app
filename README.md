@@ -1,3 +1,4 @@
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
@@ -39,3 +40,6 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
+
+# sample_app
+Simple rails app showing the use of static pages
